@@ -1,3 +1,42 @@
+<style>
+code {
+				display: block;
+				height: 200px;
+				overflow-y: scroll;
+				background-color: #eeeeee;
+				margin: 0px;
+			}
+			ol li span {
+				color: #3d3d3d;
+			}
+			a img {
+				text-decoration: none;
+				border: 0 none;
+			}
+			#content {
+				margin: 0 auto;
+				padding: 24px;
+				width: 800px;
+				background-color: white;
+				border: 1px solid #999;
+				border-width: 0 1px 1px 1px;
+				text-align: left;
+				color: #3d3d3d;
+				font-family: Helvetica;
+				font-size: 13px;
+				display: block;
+			}
+			#content a {
+				color: #3d3d3d;
+			}
+			#content a:hover {
+				color: #3d3d3d;
+				background-color: #cccccc;
+			}
+			#productslider a:hover,#productslider2 a:hover,#productslider3 a:hover,#productslider4 a:hover,#productslider5 a:hover{
+				background-color: #ffffff;
+			}
+</style>
 <div id="content">
 			<div style="display:block;margin-left:200px;">
 				<h1 style="margin:0px;padding:0px;display:block;font-size:60px">Image Slider</h1>
